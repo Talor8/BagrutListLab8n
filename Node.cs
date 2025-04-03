@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ListLab;
+namespace BagrutListLab8n;
 
 public class Node<T>
 {
